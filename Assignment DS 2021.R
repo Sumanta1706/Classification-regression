@@ -1,5 +1,3 @@
-
-
 #Unsupervised: Principal Component Analysis
 
 install.packages("psych")
